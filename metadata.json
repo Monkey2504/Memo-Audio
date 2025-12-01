@@ -1,0 +1,7 @@
+{
+  "name": "Journal Éloquent",
+  "description": "Un journal personnel intelligent qui transforme votre voix en texte, analyse votre éloquence et vous aide à vous exprimer avec plus de clarté et de fermeté.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
